@@ -1,4 +1,5 @@
-![1lamp](https://github.com/user-attachments/assets/25ca78d0-f677-479e-91a2-5c919072ad66)
+
+![1lamp](https://github.com/user-attachments/assets/a4654e76-8f63-4d41-953a-e8273eddf136)
 
  # Potentiometer-Controlled LED Brightness
 
