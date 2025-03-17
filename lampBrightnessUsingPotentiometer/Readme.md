@@ -1,6 +1,3 @@
-
-![1lamp](https://github.com/user-attachments/assets/a4654e76-8f63-4d41-953a-e8273eddf136)
-
  # Potentiometer-Controlled LED Brightness
 
 ## Code Breakdown
@@ -54,3 +51,6 @@ void loop() {
 - **LED dimming control**
 - **Motor speed control** (using PWM)
 - **Analog sensor-based input systems**
+
+## Image
+![1lamp](https://github.com/user-attachments/assets/a4654e76-8f63-4d41-953a-e8273eddf136)
