@@ -51,4 +51,6 @@ This conversion helps in debugging and understanding the binary representation o
 ## License
 This project is open-source. Feel free to modify and improve it!
 
+*using cathode seven segment
+
 ![image](https://github.com/user-attachments/assets/23bb5414-dc68-47d9-a5e0-7ffe8276e759)
