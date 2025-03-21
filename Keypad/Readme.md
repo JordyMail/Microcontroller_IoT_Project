@@ -81,3 +81,4 @@ Begitu pula dengan tombol lainnya sesuai dengan mapping yang telah dibuat.
 - Pastikan koneksi kabel ke keypad sesuai dengan pin yang ditentukan dalam kode.
 - Jika keypad tidak merespons, periksa apakah library `Keypad.h` telah terinstal dengan benar di Arduino IDE.
 
+![image](https://github.com/user-attachments/assets/7b99109a-c66c-4e53-8082-da70a569e59c)
