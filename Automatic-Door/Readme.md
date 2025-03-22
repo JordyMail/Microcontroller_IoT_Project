@@ -125,3 +125,6 @@ lcd.print(" cm");
 - Modify the distance threshold in the code if needed.
 
 WOKWI LINK: [https://wokwi.com/projects/421951766750375937]
+
+
+![image](https://github.com/user-attachments/assets/d5bd8702-9981-4f0d-b6ac-88fc1f587312)
