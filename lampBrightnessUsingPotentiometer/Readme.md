@@ -53,4 +53,5 @@ void loop() {
 - **Analog sensor-based input systems**
 
 ## Image
+WOKWI LINK: [https://wokwi.com/projects/420079624926797825]
 ![1lamp](https://github.com/user-attachments/assets/a4654e76-8f63-4d41-953a-e8273eddf136)
