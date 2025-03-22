@@ -89,4 +89,8 @@ void loop() {
 - **Automatic lighting**
 - **Intruder detection**
 
+## Image
+
+WOKWI LINK: [https://wokwi.com/projects/420110642298943489]
+
 ![image](https://github.com/user-attachments/assets/87ed75db-2975-40f6-be40-12e1c9959898)
