@@ -56,5 +56,12 @@ void loop() {
 - Ensure the button is wired correctly to avoid floating pin issues.
 - Adjust the debounce delay if necessary to match the button's response time.
 
-Happy coding! 🚀
+## Image
+
+WOKWI LINK: [https://wokwi.com/projects/420079545229773825]
+
+![image](https://github.com/user-attachments/assets/e05178c8-9410-47d9-bcb5-8e99dcc9fc5b)
+
+
+
 
