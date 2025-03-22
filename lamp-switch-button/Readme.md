@@ -60,7 +60,8 @@ void loop() {
 
 WOKWI LINK: [https://wokwi.com/projects/420079545229773825]
 
-![WhatsApp Image 2025-01-15 at 01 06 00_28b0ff63](https://github.com/user-attachments/assets/6146e63a-0bb8-4c8c-b641-9c4d307c86e1)
+![image](https://github.com/user-attachments/assets/e05178c8-9410-47d9-bcb5-8e99dcc9fc5b)
+
 
 
 
