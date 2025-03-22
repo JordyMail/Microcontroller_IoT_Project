@@ -48,9 +48,10 @@ This conversion helps in debugging and understanding the binary representation o
 - Implement user input to display custom numbers.
 - Integrate with a shift register to minimize pin usage.
 
-## License
-This project is open-source. Feel free to modify and improve it!
-
+## Image
 *using cathode seven segment
+
+WOKWI LINK: [https://wokwi.com/projects/420289388255257601]
+
 
 ![image](https://github.com/user-attachments/assets/23bb5414-dc68-47d9-a5e0-7ffe8276e759)
