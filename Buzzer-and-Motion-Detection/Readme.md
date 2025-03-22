@@ -116,4 +116,8 @@ This code implements a motion detection system using an Arduino, a PIR sensor, a
 - Ensure the PIR sensor is properly connected and has time to stabilize upon power-up.
 - Modify the `times` variable if a different switching interval is needed.
 
+## Image
+
+WOKWI LINK: [https://wokwi.com/projects/426101259228996609]
+
 ![image](https://github.com/user-attachments/assets/8248da99-422a-44ff-be18-608fe5e818c2)
