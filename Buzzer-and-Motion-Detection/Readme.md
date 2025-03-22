@@ -13,7 +13,7 @@ This code implements a motion detection system using an Arduino, a PIR sensor, a
 - Buzzer
 - Red LED
 - Green LED
-- Resistors (if necessary)
+- Resistors for LED (220 ohm)
 - Jumper Wires
 
 ## Library Used
