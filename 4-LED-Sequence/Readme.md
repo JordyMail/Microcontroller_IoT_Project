@@ -135,3 +135,5 @@ void updateLEDs(int state) {
 
 WOKWI LINK: [https://wokwi.com/projects/422017152204355585]
 
+
+![image](https://github.com/user-attachments/assets/f3e1fab5-650f-43fc-b482-7bb98bd84169)
