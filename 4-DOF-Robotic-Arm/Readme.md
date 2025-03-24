@@ -1,6 +1,6 @@
 # 4-DOF MeArm Robot
 
-Building and programming a 4-degree-of-freedom robotic arm (MeArm Robot Kit) using Arduino Uno and a joystick.
+Building and programming a 4-degree-of-freedom robotic arm (MeArm Robot Kit) using Arduino Uno and a **joystick**.
 
 ## Robot Arm
 
