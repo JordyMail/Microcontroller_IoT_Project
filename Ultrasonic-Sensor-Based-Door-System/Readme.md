@@ -152,3 +152,7 @@ void loop() {
 - **Add Bluetooth or WiFi** for remote control.
 - **Improve motor movement** for smoother door transitions.
 - **Optimize power consumption** for real-world applications.
+
+## Image
+
+![1](https://github.com/user-attachments/assets/80509a1c-755c-4d96-b4cd-36627908ea2a)
