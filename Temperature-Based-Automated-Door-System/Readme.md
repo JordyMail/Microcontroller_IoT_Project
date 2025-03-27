@@ -73,3 +73,6 @@ This Arduino project automates a door system based on **temperature readings** f
 - **Add Wi-Fi/MQTT integration** for remote monitoring.
 - **Use a fan cooling system** to reduce temperature instead of opening a door.
 - **Adjust threshold dynamically** based on user input.
+
+- 
+![3](https://github.com/user-attachments/assets/eaa103a7-5258-49c3-8fc8-c6f250281ec0)
