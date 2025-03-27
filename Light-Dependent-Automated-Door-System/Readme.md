@@ -78,3 +78,6 @@ This Arduino project automates a door system using a **Light Dependent Resistor 
 
 Developed by **Jordy Mail**  
 For educational and automation purposes.
+
+
+![2](https://github.com/user-attachments/assets/77c60545-a6d3-419e-88b9-048c7ac6f78b)
