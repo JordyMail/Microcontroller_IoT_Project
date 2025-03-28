@@ -55,7 +55,5 @@ This project is an Arduino-based temperature monitoring system that reads temper
 ## License
 This project is open-source and can be modified and distributed freely.
 
-## Author
-[Your Name]
 
 ![4 7 segment](https://github.com/user-attachments/assets/bcbbe199-f35a-4c44-a302-0b24eb9a8dc7)
